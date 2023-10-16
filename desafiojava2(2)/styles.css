@@ -1,0 +1,23 @@
+
+.cajita{
+    display: flex;
+}
+
+.sticker{
+
+        display: flex;
+        flex-direction: column;
+        border: 2px;
+        margin: 2px;
+
+}
+
+.sticker img{
+    width: 250px;
+    height: 300px;
+    border: solid black;
+}
+
+ footer button{
+   text-align: center;
+}
